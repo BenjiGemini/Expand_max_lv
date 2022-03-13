@@ -1,4 +1,4 @@
-Rechercher :
+---Rechercher :
 #######################################################################
 
 void CHARACTER::SetLevel(BYTE level)
