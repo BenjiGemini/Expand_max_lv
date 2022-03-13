@@ -1,4 +1,4 @@
-Rechercher :
+---Rechercher :
 #######################################################################
 
 void			SetLevel(BYTE level);
@@ -9,7 +9,7 @@ Remplacer par:
 void			SetLevel(int level);
 
 
-Rechercher :
+---Rechercher :
 #######################################################################
 
 BYTE			level;
